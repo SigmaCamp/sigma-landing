@@ -1,0 +1,1 @@
+Global styles and theme used throughout application. See usage in HelloWorld component

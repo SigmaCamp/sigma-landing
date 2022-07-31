@@ -1,0 +1,1 @@
+Files that export constant values that appear in multiple components
